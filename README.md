@@ -16,6 +16,4 @@ I am a developer focused on crafting personal projects and exploring new technic
 
 ### GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianthepro&layout=compact&theme=vision-friendly-dark)
-
-![Florian Kutzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=florianthepro&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianthepro&layout=compact&theme=vision-friendly-dark) ![Florian Kutzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=florianthepro&show_icons=true&theme=vision-friendly-dark)
