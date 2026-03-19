@@ -2,7 +2,7 @@
 
 ### About Me
 
-Ich bin Entwickler und konzentriere mich darauf, persönliche Projekte umzusetzen und neue technische Herausforderungen zu erkunden. Meine Arbeit dreht sich vor allem um die Entwicklung maßgeschneiderter Tools und die kontinuierliche Verbesserung von Software durch iterative Weiterentwicklung.
+I am a developer and focus on working on personal projects and exploring new technical challenges. My work primarily revolves around developing custom tools and continuously improving software through iterative development.
 
 ***
 
