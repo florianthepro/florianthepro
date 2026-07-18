@@ -13,7 +13,7 @@ I am a developer and focus on working on personal projects and exploring new tec
 ### Not in My Stack
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+<!-- 
 ***
 
 ### GitHub Analytics
